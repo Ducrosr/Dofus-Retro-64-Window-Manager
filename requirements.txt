@@ -1,0 +1,7 @@
+asyncio
+pywinauto
+pygetwindow
+pyautogui
+Pillow
+pynput
+ttkthemes
