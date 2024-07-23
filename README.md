@@ -2,7 +2,7 @@ Disclaimer : Ceci n'est pas un logiciel de triche, il n'interagit aucunement ave
 
 Manager de fenêtres pour Dofus Retro 64 Bits
 
-Permet de naviguer uniquement entre les fenêtres Dofus Retro (Equivalent Alt + Esc mais limité à Dofus Retro) que vous souhaitez et dans l'ordre que vous souhaitez.
+Permet de naviguer uniquement entre les fenêtres Dofus Retro (Equivalent Alt + Esc mais limité à Dofus Retro) dans l'ordre que vous souhaitez afin de faciliter le jeu en multi-compte.
 
 Permet de détecter les fenêtres Dofus Retro, de les ordonner par Bouton et Drag and Drop, d'ignorer certaines fenêtres pour les exclures de l'ordre de rotation, de sauvegarder des formations pour réorganiser rapidement l'ordre de rotation au besoin (Pratique pour le Donjon Chêne Mou par exemple.)
 
