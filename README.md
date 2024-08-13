@@ -1,6 +1,8 @@
 Disclaimer : Ceci n'est pas un logiciel de triche, il n'interagit aucunement avec le client ou les serveurs de jeux, il ne fait que gérer des fenêtres au sein de Windows en les plaçants au premier plan à la demande.
 
-Manager de fenêtres pour Dofus Retro 64 Bits
+Manager de fenêtres pour Dofus Retro 64 Bits et Dofus Unity
+
+Utiliser Unity.py pour Unity et DofusRetroWindowManager.py pour dofus Retro
 
 Permet de naviguer uniquement entre les fenêtres Dofus Retro (Equivalent Alt + Esc mais limité à Dofus Retro) dans l'ordre que vous souhaitez afin de faciliter le jeu en multi-compte.
 
