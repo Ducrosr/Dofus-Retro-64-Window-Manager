@@ -86,7 +86,7 @@ async def update_windows():
         try:
             desktop = Desktop(backend="uia")
             windows = desktop.windows(class_name="UnityWndClass")
-            dofus_windows = [window for window in windows if "Dofus" in window.window_text()]
+            dofus_windows = [window for window in windows if "" in window.window_text()]
             new_windows = [(window, window.window_text(), str(window.handle)) for window in dofus_windows]
             current_windows = list(dict.fromkeys(new_windows))
             update_status(f"Found {len(current_windows)} Dofus windows.")
